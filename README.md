@@ -13,7 +13,7 @@ $ export ACCESS_TOKEN='4604897652-sUolf92gfSzAVhNRwiNSIs5RsrfndosZ0EJyY9a'
 $ export ACCESS_TOKEN_SECRET='4604897652-sUolf92gfSzAVhNRwiNSIs5RsrfndosZ0EJyY9a'
 ```
 
-Run the program:
+Run bundle install and run the program:
 
 ```ruby
 ./cli.rb
